@@ -1,0 +1,16 @@
+{
+  "name": "aaa-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.0.1",
+    "assert": "^2.1.0",
+    "cucumber": "^6.0.7"
+  }
+}
